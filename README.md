@@ -1,5 +1,5 @@
 > # Emoji Knowledge-Based Database Prompts Repository
->  - We suggest using raw format - including markdown refines hierarchy for prompting.
+>  - We suggest using raw format. Including markdown refines hierarchy for prompting.
 
 # 🌟 Title: 📖 EKBDB Primer: Exploring the Power of Emojis in Data Representation 🌐🔍
 
