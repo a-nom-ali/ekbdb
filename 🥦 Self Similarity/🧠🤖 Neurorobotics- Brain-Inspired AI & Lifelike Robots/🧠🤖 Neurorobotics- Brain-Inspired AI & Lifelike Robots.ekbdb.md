@@ -1,6 +1,7 @@
 # 🌟 Title: 🧠🤖 Neurorobotics: Brain-Inspired AI & Lifelike Robots
 
-## 📌 Summary: 🌉🔬 Dive into the interdisciplinary field of neurorobotics, merging neuroscience, robotics, and AI to study brain function, develop brain-inspired algorithms, and create lifelike robots. 🧠💻🔧
+## 📌 Summary:
+🌉🔬 Dive into the interdisciplinary field of neurorobotics, merging neuroscience, robotics, and AI to study brain function, develop brain-inspired algorithms, and create lifelike robots. 🧠💻🔧
 
 ## 🔑 Core Concepts & 🧬 Emoji-Enabled Exploration:
 * 1️⃣ 🧠🔍 Neuroscience (🔬🤖1️⃣): Investigate the brain's function and its role in neurorobotics. 🎓🔎
