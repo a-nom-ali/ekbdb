@@ -2,6 +2,7 @@
 
 # 1️⃣ 𝗡𝗮𝗺𝗲: 
 Raxon Steelwright
+![Raxon01.jpeg](Raxon01.jpeg)
 
 # 2️⃣ 𝗥𝗮𝗰𝗲: 
 Human Cyborg (a fusion of human and advanced nanite-based technology)
@@ -76,6 +77,7 @@ By combining aspects and abilities from both the Artificer and the Wizard classe
 
 # 1️⃣ 𝗡𝗮𝗺𝗲: 
 Monstera Deliciosa
+![Monstera02.jpeg](Monstera02.jpeg)
 
 # 2️⃣ 𝗥𝗮𝗰𝗲: 
 Plantfolk (a humanoid closely tied to nature, with plant-like traits)
@@ -128,6 +130,7 @@ As Monstera Deliciosa levels up, she will develop new abilities and gain access 
 
 # 1️⃣ 𝗡𝗮𝗺𝗲: 
 Walter Was
+![WalterWas.jpeg](WalterWas.jpeg)
 
 # 2️⃣ 𝗥𝗮𝗰𝗲: 
 Human (a resourceful and adaptable race, well-suited to exploring the unknown)
